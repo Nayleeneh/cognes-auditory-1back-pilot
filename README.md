@@ -3,13 +3,13 @@
 ## File structure
 
 experiment/
-  main.psyexp   (na razie pusty lub jeszcze nieistniejący)
-  resources/
-    audio/
+  main.psyexp
+    resources/
+      audio/
       con/
       abs/
       baseline/
-    lists/
+  lists/
       blocks.csv
       con_words.csv
       abs_words.csv
