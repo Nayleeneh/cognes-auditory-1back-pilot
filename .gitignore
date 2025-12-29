@@ -1,0 +1,4 @@
+data/
+**/*_lastrun.py
+**/*.log
+__pycache__/
