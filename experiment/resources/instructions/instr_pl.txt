@@ -1,4 +1,4 @@
-[GENERAL_1]
+[instr_1_text]
 
 Za chwilę rozpocznie się badanie.
 
@@ -9,25 +9,47 @@ W zależności od rodzaju bodźców:
 – porównasz pojęcia abstrakcyjne,
 – albo zareagujesz na szum.
 
+Naciśnij dowolny przycisk, aby zobaczyć to schematycznie.
+
+[instr_1_schema]
+
+Usłyszysz nagrania słów jedno po drugim.
+
+Każde późniejsze słowo porównujesz z poprzednim.
+
+Decyzję podejmujesz
+LEWYM lub PRAWYM przyciskiem.
+
 Naciśnij dowolny przycisk, aby zobaczyć przykłady.
 
-[GENERAL_2]
+[instr_2_CON]
 
 słowa KONKRETNE: „krzesło” → „szafa”
+
 Odpowiedz intuicyjnie: Czy późniejszy przedmiot (szafa) jest 
 MNIEJSZE (LEWY) czy WIĘKSZE (PRAWY) od poprzedniego przedmiotu (krzesło)?
 
+Naciśnij dowolny przycisk, aby kontynuować.
+
+[instr_2_ABS]
+
 pojęcia ABSTRAKCYJNE: „przyjaźń” → „pieniądze”
+
 Odpowiedz intuicyjnie: Czy późniejsze pojęcie (pieniądze) jest 
 MNIEJ WAŻNE (LEWY) czy WAŻNIEJSZE (PRAWY) od poprzedniego pojęcia (przyjaźń)?
 
+Naciśnij dowolny przycisk, aby kontynuować.
+
+[instr_2_BASE]
+
 SZUM:
+
 Tu usłyszysz różne nagrania szumu, które nie są konkretnymi słowami.
 Naciśnij DOWOLNY przycisk (LEWY lub PRAWY), gdy skończy się nagranie.
 
 Naciśnij dowolny przycisk, aby kontynuować.
 
-[GENERAL_3]
+[instr_3]
 
 Badanie składa się z kilku krótkich bloków.
 
